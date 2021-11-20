@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@sentry/node": "^6.15.0",
+    "@sentry/tracing": "^6.15.0",
     "@types/redis": "^2.8.32",
     "D": "^1.0.0",
     "aws-sdk": "^2.1030.0",
